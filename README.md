@@ -16,3 +16,7 @@ Local development:
 	edit ....
 	add, commit, and push changes.
 
+To see the twitter feed work you'll need a web server:
+
+	python -m SimpleHTTPServer 8000	
+

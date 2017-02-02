@@ -12,7 +12,6 @@ to view via a webserver, e.g. as follows
 
 	python -m SimpleHTTPServer 8000	
 
-
 Edit cycle:
 
 	edit src/...

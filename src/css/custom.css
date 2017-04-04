@@ -22,3 +22,18 @@ body {
 .footer p {
 	padding-top: 2em;
 }
+
+/* 1140/2 - 16 = 554 */
+@media (max-width: 559px) {
+  .smaller-twitter-timeline {
+	width: 100%;
+  }
+}
+
+/* Small devices and up) */
+@media (min-width: 600px) {
+  .smaller-twitter-timeline {
+	margin: 0;
+	width: 554px;
+  }
+}
